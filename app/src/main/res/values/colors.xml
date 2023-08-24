@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#FF359B</color>
+    <color name="azure">#0884FF</color>
+    <color name="violet">#9308FF</color>
+    <color name="maroon">#840808</color>
+    <color name="cyan">#08E3E2</color>
+    <color name="lime">#08FF08</color>
+    <color name="orange">#FFA010</color>
+    <color name="yellow">#FFFF08</color>
+    <color name="silver">#C2C2C2</color>
+
+</resources>
